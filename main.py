@@ -23,7 +23,7 @@ async def help(ctx):
     await ctx.send("Help menu: \n"+
                   "Joke: trdb help joke \n"+
                   "Fact: trdb help fact \n"+
-                  "Mag8ball: trdb help mag8ball"+
+                  "Mag8ball: trdb help mag8ball \n"+
                   "Bucketlist: trdb help bucketlist \n"+
                   "Name: trdb help name \n"+
                   "Riddle: trdb help riddle \n"+
