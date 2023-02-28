@@ -29,9 +29,9 @@ async def help(ctx):
                   "Riddle: trdb help riddle \n"+
                   "Meter: trdb help meter \n"+
                   "Chucknorris: trdb help chucknorris \n"+
-                  "Dadjoke: trdb help dadjoke"+
-                  "Hobbies: trdb help hobbies"+
-                  "Trivia: trdb help trivia")
+                  "Dadjoke: trdb help dadjoke \n"+
+                  "Hobbies: trdb help hobbies \n"+
+                  "Trivia: trdb help trivia \n")
   else:
     em = discord.Embed(title="Help Menu", description="Use: trdb help to get the help menu")
     em.add_field(name="joke", value = "trdb help joke")
